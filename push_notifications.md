@@ -1,4 +1,4 @@
-#Push Notifications
+# Push Notifications
 
 #### While adding push notifications feature in your app or website, please check the following cases:
 

@@ -1,4 +1,4 @@
-#Signup
+# Signup
 
 #### While adding a Signup feature in your app or website, please check the following cases:
 

@@ -1,4 +1,4 @@
-#Edit Profile
+# Edit Profile
 
 #### While adding the "Edit Profile" feature in your app or website, please check the following cases:
 

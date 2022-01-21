@@ -1,4 +1,4 @@
-#Forgot Password
+# Forgot Password
 
 #### While adding a "Forgot Password?" feature in your app or website, please check the following cases:
 

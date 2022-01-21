@@ -1,4 +1,4 @@
-#Payment Gateway
+# Payment Gateways
 
 #### While adding a payment gateway feature in your app or website, please check the following cases:
 

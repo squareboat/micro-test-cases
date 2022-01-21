@@ -1,4 +1,4 @@
-#Logout
+# Logout
 
 #### While adding the Logout feature in your app or website, please check the following cases:
 

@@ -1,4 +1,4 @@
-#Resend OTP
+# Resend OTP
 
 #### While adding the "Resend OTP" feature in your app or website, please check the following cases:
 
