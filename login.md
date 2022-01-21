@@ -1,3 +1,7 @@
+#Login
+
+#### While adding the "Login" feature in your app or website, please check the following cases:
+
 1. Required fields must have red asterisk sign
 1. Placeholder text in all fields must be clearly mentioned
 1. While login button is responding, a loader should clearly show

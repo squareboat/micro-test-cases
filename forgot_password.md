@@ -1,3 +1,7 @@
+#Forgot Password
+
+#### While adding a "Forgot Password?" feature in your app or website, please check the following cases:
+
 1. Text should be “Forgot password?” and not “Forget password”
 1. Password validation rules applied on signup should also apply during password reset
 1. Forgot password link should expire after 24 hours.

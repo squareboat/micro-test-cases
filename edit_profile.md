@@ -1,3 +1,7 @@
+#Edit Profile
+
+#### While adding the "Edit Profile" feature in your app or website, please check the following cases:
+
 1. None of the fields which were not a part of the signup form should be mandatory
 1. Profile pic field:
 1. Once picture uploaded should instantly reflect all across the website

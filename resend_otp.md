@@ -1,3 +1,7 @@
+#Resend OTP
+
+#### While adding the "Resend OTP" feature in your app or website, please check the following cases:
+
 1. Resend OTP feature is a must incase login with OTP is available to the user. It cannot be omitted at any cost.
 1. Re-sent OTP must not replace the previous OTP - The previous OTP should itself be re-sent.
 1. Resending OTP must be permissible after some valid time gap (ex. 1 minute)
